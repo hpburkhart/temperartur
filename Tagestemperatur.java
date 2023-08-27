@@ -2,6 +2,7 @@ import java.util.Random;
 
 public class Tagestemperatur
 {
+    //Attribuite
     private int tag;
     private int monat;
     private String ort;
