@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tagestemperatur
+comment1.params=
+comment1.target=Tagestemperatur()
+comment2.params=stunde\ tempNeu
+comment2.target=void\ TemperaturSetzen(int,\ int)
+comment3.params=stunde
+comment3.target=int\ TemperaturGeben(int)
+comment4.params=
+comment4.target=int\ MinimaltemperaturGeben()
+comment5.params=
+comment5.target=void\ MitTestwertenBef\u00FCllen()
+comment6.params=
+comment6.target=void\ TemperaturenAusgeben()
+comment7.params=
+comment7.target=int\ MaximaltemperaturGeben()
+comment8.params=
+comment8.target=float\ DurchschnittstemperaturGeben()
+numComments=9
